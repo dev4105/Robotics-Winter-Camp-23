@@ -4,122 +4,47 @@
 
 Welcome freshers,
 
-Welcome to Robotics Winter Camp-2023! The camp consists of learning an Image-Processing library named OpenCV and a simulator PyBullet and is organsised by the Robotics Club, IIT (BHU), Varanasi to facilitate learning about different components of image processing and its application in building robots capable of autonomous movement. The camp will be followed by a competiton 'La-Roboliga' where you can compete with others and get exciting prizes.
+Welcome to Robotics Winter Camp-2023! The camp consists of learning an Image-Processing library named OpenCV and a simulator PyBullet and is organsised by the Robotics Club, IIT (BHU), Varanasi to facilitate learning about different components of image processing and its application in building robots capable of autonomous movement. The camp will be followed by a competiton 'La-Roboliga' where you can compete with others and get exciting prizes. 
 
-## Competition Description
+The camp will be conducted in two phases-
 
+WEEK 1- OpenCV
 
-The vision aspect of the competition focuses on developing a robot's ability to perceive its environment and make decisions based on visual information.
-This repository holds the official arena for the event which will be used for evaluation of the submissions by the participants. 
+WEEK 2- PyBullet
 
-The complete problem statement can be found below :
-
-[vision final.pdf](https://github.com/Robotics-Club-IIT-BHU/VISION-23/files/10881736/vision.final.pdf)
-
-
-Complete the solution code to detect the target and navigate to the goal, making use of Pybullet simulation and computer vision.
-
-
+The tasks will be available in the GIT as soon as they are updated, regarding the submission you all will be informed.
 
 ## Prerequisites
 
 Your Enthusiasm!!!!
 
+Secondly you are expected to have a basic guide over Python language for which we are attaching resources below.
+
 
 ## Installation Guidelines
 
-* Clone the repository to your local machine.
+You are required to install Anaconda and setup the environment as shown in the video,
 
-    ```
-    git clone https://github.com/Robotics-Club-IIT-BHU/VISION-23.git 
-    ```
-* Create a new anaconda environment.
-  
-    ```
-    conda create --name vision python=3.9.7 -y
-    ```
-* Now activate your anaconda environment.
-    
-    ```
-    conda activate vision
-    ```
-* Once you activate your environment, navigate to the root folder of this repository through your terminal and execute the following command in your terminal.
-
-    ```
-    pip install -r requirements.txt
-    conda install -c conda-forge pybullet
-    ```
-    
-## Getting Started
-
-To check whether the installation has been successful, you can refer to examples folder.
-
-You can refer the file description_v0_functions.py and description_v1_functions to see the documentation for different functions used in ps1 and ps2.
+[Setup Video Link](https://youtu.be/YrbAudk7ipE?feature=shared).
 
 
-#### PS1
 
-* Change your current directory to the env's root/scripts.
-
-* Program your robot to detect the humanoid using computer vision. Complete the sample code in the `scripts/solution_v0.py` file.
-
-* Test your robot in a Pybullet environment.
-
-* Submit your code.
-
-
-#### PS2
-
-* Change your current directory to the env's root/scripts.
-
-* Program your robot to detect the humanoid using computer vision. Complete the sample code in the `scripts/solution_v1.py` file.
-
-* Test your robot in a Pybullet environment.
-
-* Submit your code.
-
-
-## Competition Guidelines
-
-The competition will take place solely in a virtual environment-Pybullet.
-
-You are encouraged to use open-source libraries for computer vision and robotics for any help you need.
-
-The judges will evaluate the participants based on the functionality of their robot, the quality of their code.
-
-### PS1
-
-![image](https://user-images.githubusercontent.com/120899038/222521092-06c19a35-cc62-4a57-a7a5-9c2c6dc64766.png)
-
-### PS2
-
-![image](https://user-images.githubusercontent.com/120899038/222521908-cc9b92b0-7acf-46b5-ab08-0e1c16124ecb.png)
-
-
-## Submitting Your Project
-
-We will be floating a form link soon. Upload your code as well as the video on the form itself. 
-
-All the submissions to be done before 6th March 2023, EOD.
-
-
-## Resources
+## WEEK 1- OpenCV :: Resources
 Here are some resources to help you get started:
+
+[Python for Beginners-Learn Python in 1 hour](https://youtu.be/kqtD5dpn9C8?si=Vm-AFsbV97xW-7sL) - Take a look over Python language
+
+[Python Beginner's Guide](https://wiki.python.org/moin/BeginnersGuide) - A guide for Python Language
 
 [OpenCV](https://docs.opencv.org/4.x/) - an open-source computer vision library.
 
-[Pybullet Workshop Presentation link](https://docs.google.com/presentation/d/1GOtJJlYNM3bD58aDP8NgCF2n8hoL5g8fXXuQwnnzkpE/edit#slide=id.g1102d05d31e_0_104)
+[Opencv workshop codes.zip](https://github.com/Robotics-Club-IIT-BHU/VISION-23/files/10891704/Opencv.workshop.zip) - Some codes to help you with.
 
-[Open CV Workshop Presentation Link](https://docs.google.com/presentation/d/1RwAGsYsVIkNMEP-hASJOoHOXIZ-xuMGdVxvKk8843Jw/edit#slide=id.g1a27f565b9b_0_8843)
+## WEEK 2- PyBullet :: Resources
+Coming Soon...
 
-[Opencv workshop codes.zip](https://github.com/Robotics-Club-IIT-BHU/VISION-23/files/10891704/Opencv.workshop.zip)
 
-
-[Pybullet Quick Starter Guide](https://usermanual.wiki/Document/pybullet20quickstart20guide.479068914/view)
-
-[PID](https://youtu.be/wkfEZmsQqiA)
-
-Good luck, and have fun! If you have any questions, feel free to approach your mentors.
+Good luck, and have fun! If you have any questions, feel free to ask in the WhatsApp group itself.
 
 
 
